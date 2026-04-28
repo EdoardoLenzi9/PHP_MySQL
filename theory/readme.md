@@ -18,7 +18,7 @@ extra:
 
 ![alt text](image.png)
 
-Un’azienda di Hotellerie vuole realizzare un portale che permetta di gestire e visualizzare le prenotazioni dei propri clienti. Partendo dall’immagine qui sotto realizzare lo schema relazionale e  il database, facendo una connessione tramite PDO, e realizzando un’interfaccia che oltre a visualizzare le prenotazioni permetta anche le operazioni di CRUD (Create, REad, Update, Delete). Visualizzare i dati in una tabella.Visualizzare i dati in una tabella.
+Un’azienda di Hotellerie vuole realizzare un portale che permetta di gestire e visualizzare le prenotazioni dei propri clienti. Partendo dall’immagine qui sotto realizzare lo schema relazionale e  il database, facendo una connessione tramite PDO, e realizzando un’interfaccia che oltre a visualizzare le prenotazioni permetta anche le operazioni di CRUD (Create, REad, Update, Delete). Visualizzare i dati in una tabella.
 
 ![alt text](image-1.png)
 
