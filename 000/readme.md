@@ -25,3 +25,5 @@ Outputs HTML
         ↓
 Browser renders page
 ```
+
+# SQL
