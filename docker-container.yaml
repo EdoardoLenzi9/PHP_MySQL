@@ -1,3 +1,5 @@
+# sudo systemctl stop mysql
+
 services:
   db:
     image: mysql:8.0
