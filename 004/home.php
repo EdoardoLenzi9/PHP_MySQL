@@ -2,6 +2,7 @@
 session_start();
 
 $uid = $_SESSION["user_id"];
+
 function newPost($topic, $text, $user){
     return true;
 }
